@@ -11,16 +11,17 @@ const renderYPosition = () => {
 }
 
 export const Button = styled.button`
-  background-color: rgba(0,0,0,.5);
+  background-color: #fff;
   border-radius: 2px;
   border: unset;
   display: flex;
   align-items: center;
   justify-content: center;
-  width: 34px;
-  height: 34px;
+  width: 40px;
+  height: 50px;
   margin: 16px;
   position: absolute;
+  outline: 1px solid black;
   z-index: 10;
   ${renderXPosition};
   ${renderYPosition};
