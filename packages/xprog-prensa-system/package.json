@@ -1,10 +1,10 @@
 {
-  "name": "@xprog/prensa-system",
+  "name": "@atexbrasil/prensa-system",
   "version": "1.1.0",
   "description": "PDS Core System",
-  "author": "XPROG",
+  "author": "XPROG|ATEXBRASIL",
   "license": "ISC",
-  "repository": "https://github.com/xproglabs/prensa-designsystem.git",
+  "repository": "https://github.com/atexbrasil/atex-prensa-designsystem.git",
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
