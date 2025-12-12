@@ -2,9 +2,9 @@
   "name": "prensa",
   "version": "1.10.0",
   "description": "Prensa Design System",
-  "author": "XPROG",
+  "author": "XPROG|ATEXBRASIL",
   "license": "ISC",
-  "repository": "https://github.com/xproglabs/prensa-designsystem.git",
+  "repository": "https://github.com/atexbrasil/atex-prensa-designsystem.git",
   "peerDependencies": {
     "date-fns": ">=2.28.0",
     "html2json": ">=1.0.2",
