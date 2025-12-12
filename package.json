@@ -1,8 +1,8 @@
 {
-  "name": "@xprog/prensa-monorepo",
+  "name": "@atexbrasil/prensa-monorepo",
   "version": "1.0.0",
-  "author": "XPROG",
-  "repository": "https://github.com/xproglabs/prensa-designsystem.git",
+  "author": "XPROG|ATEXBRASIL",
+  "repository": "https://github.com/atexbrasil/atex-prensa-designsystem.git",
   "scripts": {
     "prensa:v1": "cd packages/prensa && yarn start",
     "prensa:v2": "cd packages/xprog-prensa && yarn start",
