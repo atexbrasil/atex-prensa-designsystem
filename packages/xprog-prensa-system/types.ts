@@ -1,7 +1,7 @@
 import { CSS } from "@stitches/react/types";
 import { DefaultThemeMap } from "@stitches/react/types/config";
 import Stitches from "@stitches/react/types/stitches";
-import { PrensaTokens } from "@xprog/prensa-design-tokens/tokens";
+import { PrensaTokens } from "@atexbrasil/prensa-design-tokens/tokens";
 
 export declare const PrensaEngine: Stitches<
   'pds',

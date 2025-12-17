@@ -1,12 +1,12 @@
 import { createStitches } from '@stitches/react'
 import { CSS } from '@stitches/react/types'
-import defaults from '@xprog/prensa-design-tokens/3-themes/default.json'
-import queries from '@xprog/prensa-design-tokens/configs/queries'
-import radius from '@xprog/prensa-design-tokens/configs/radius'
-import sizes from '@xprog/prensa-design-tokens/configs/sizes'
-import spaces from '@xprog/prensa-design-tokens/configs/spaces'
-import utils from '@xprog/prensa-design-tokens/configs/utils'
-import variants from '@xprog/prensa-design-tokens/configs/variants'
+import defaults from '@atexbrasil/prensa-design-tokens/3-themes/default.json'
+import queries from '@atexbrasil/prensa-design-tokens/configs/queries'
+import radius from '@atexbrasil/prensa-design-tokens/configs/radius'
+import sizes from '@atexbrasil/prensa-design-tokens/configs/sizes'
+import spaces from '@atexbrasil/prensa-design-tokens/configs/spaces'
+import utils from '@atexbrasil/prensa-design-tokens/configs/utils'
+import variants from '@atexbrasil/prensa-design-tokens/configs/variants'
 
 export const PrensaEngine = createStitches({
   prefix: 'pds',

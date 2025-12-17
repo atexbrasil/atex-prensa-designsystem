@@ -1,6 +1,6 @@
 {
   "name": "@atexbrasil/prensa-system",
-  "version": "1.1.0",
+  "version": "1.1.2",
   "description": "PDS Core System",
   "author": "XPROG|ATEXBRASIL",
   "license": "ISC",
@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@stitches/react": "1.2.8",
-    "@xprog/prensa-design-tokens": "1.9.0",
+    "@atexbrasil/prensa-design-tokens": "1.13.5",
     "react": "18.2.0",
     "react-dom": "18.2.0"
   },
