@@ -1,6 +1,6 @@
 import React from 'react'
 
-import { PrensaEngine } from '@xprog/prensa-system'
+import { PrensaEngine } from '@atexbrasil/prensa-system'
 
 const theme = PrensaEngine.config.theme
 

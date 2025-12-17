@@ -1,4 +1,4 @@
-import { PrensaEngineCSS } from '@xprog/prensa-system'
+import { PrensaEngineCSS } from '@atexbrasil/prensa-system'
 import { ReactNode, MouseEventHandler } from 'react'
 
 import { AccordionContentVariants } from './content'

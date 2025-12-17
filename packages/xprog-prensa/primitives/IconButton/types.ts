@@ -1,6 +1,6 @@
 /* eslint-disable no-undef */
 import { VariantProps } from '@stitches/react'
-import { PrensaEngineCSS, PrensaEngineTypeof } from '@xprog/prensa-system'
+import { PrensaEngineCSS, PrensaEngineTypeof } from '@atexbrasil/prensa-system'
 import { ReactNode, HTMLProps } from 'react'
 
 import { StyledIconButtonType } from './styles'

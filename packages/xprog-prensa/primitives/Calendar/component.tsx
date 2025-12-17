@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 
-import { PrensaEngine } from '@xprog/prensa-system'
+import { PrensaEngine } from '@atexbrasil/prensa-system'
 import { Block } from '../Block'
 import { IconButton } from '../IconButton'
 import { Typography } from '../Typography'

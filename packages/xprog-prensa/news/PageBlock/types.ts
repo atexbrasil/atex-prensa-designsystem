@@ -1,4 +1,4 @@
-import { PrensaEngineCSS, PrensaEngineTypeof } from '@xprog/prensa-system'
+import { PrensaEngineCSS, PrensaEngineTypeof } from '@atexbrasil/prensa-system'
 import { FunctionComponent, ReactNode } from 'react'
 
 import { IBlock } from '../../primitives/Block/types'

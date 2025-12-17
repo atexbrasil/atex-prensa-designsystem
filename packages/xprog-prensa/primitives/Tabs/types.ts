@@ -1,4 +1,4 @@
-import { PrensaEngineCSS } from '@xprog/prensa-system'
+import { PrensaEngineCSS } from '@atexbrasil/prensa-system'
 
 interface StateProperties { selected?: string; setSelected?: (P: any) => void; }
 

@@ -1,4 +1,4 @@
-import { PrensaEngineTypeof } from '@xprog/prensa-system'
+import { PrensaEngineTypeof } from '@atexbrasil/prensa-system'
 import { ITypographyStyled } from './styled'
 
 export type TypographyVariantKeys = keyof PrensaEngineTypeof['config']['theme']['fontSizes'];

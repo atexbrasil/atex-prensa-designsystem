@@ -1,4 +1,4 @@
-import { PrensaEngine } from '@xprog/prensa-system'
+import { PrensaEngine } from '@atexbrasil/prensa-system'
 
 export const SVG = PrensaEngine.styled('svg', {})
 

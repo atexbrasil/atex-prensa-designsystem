@@ -1,5 +1,5 @@
 import { ComponentProps, VariantProps } from '@stitches/react'
-import { PrensaEngine } from '@xprog/prensa-system'
+import { PrensaEngine } from '@atexbrasil/prensa-system'
 
 const AccordionContent = PrensaEngine.styled('section', {
   variants: {

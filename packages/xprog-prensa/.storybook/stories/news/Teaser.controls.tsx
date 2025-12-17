@@ -1,6 +1,6 @@
 import React from 'react'
 import { ArgsTable, Title } from '@storybook/addon-docs'
-import DefaultTokens from '@xprog/prensa-design-tokens/3-themes/default.json';
+import DefaultTokens from '@atexbrasil/prensa-design-tokens/3-themes/default.json';
 import { TeaserProps } from '../../../news/Teaser/types';
 
 const getArgsTableForTeaser = (components) => {

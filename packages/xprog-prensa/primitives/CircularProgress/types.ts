@@ -1,4 +1,4 @@
-import { PrensaEngineTypeof } from '@xprog/prensa-system/types'
+import { PrensaEngineTypeof } from '@atexbrasil/prensa-system/types'
 
 type PrensaEngineColorTokens = keyof PrensaEngineTypeof['config']['theme']['colors']
 

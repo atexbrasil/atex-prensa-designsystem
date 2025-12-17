@@ -1,5 +1,5 @@
 import { ComponentProps } from '@stitches/react'
-import { PrensaEngine } from '@xprog/prensa-system'
+import { PrensaEngine } from '@atexbrasil/prensa-system'
 
 const Block = PrensaEngine.styled('div', {})
 

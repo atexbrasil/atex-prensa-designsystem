@@ -1,4 +1,4 @@
-import { PrensaEngine } from '@xprog/prensa-system'
+import { PrensaEngine } from '@atexbrasil/prensa-system'
 
 export const StyledA = PrensaEngine.styled('a', {})
 

@@ -1,4 +1,4 @@
-import { PrensaEngine } from '@xprog/prensa-system'
+import { PrensaEngine } from '@atexbrasil/prensa-system'
 
 const Prensa_Drawer_slideInLeft = PrensaEngine.keyframes({
   '0%': { transform: 'translateX(-100%)' },

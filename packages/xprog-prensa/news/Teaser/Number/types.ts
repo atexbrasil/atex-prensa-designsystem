@@ -1,6 +1,6 @@
 import { ReactNode } from 'react'
 
-import { PrensaEngineTypeof } from '@xprog/prensa-system'
+import { PrensaEngineTypeof } from '@atexbrasil/prensa-system'
 import { BlockType, CSSType, CSSVariant, ContainerDefaultProps } from '../types'
 
 interface NumberContainerProps extends ContainerDefaultProps {

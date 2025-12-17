@@ -1,4 +1,4 @@
-import { PrensaEngineTypeof } from '@xprog/prensa-system'
+import { PrensaEngineTypeof } from '@atexbrasil/prensa-system'
 import { BlockType, ContainerDefaultProps, PageBlockCSSType } from '../types'
 
 export interface ItemDefaultProps {

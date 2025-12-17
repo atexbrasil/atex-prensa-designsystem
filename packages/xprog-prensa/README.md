@@ -6,8 +6,8 @@ Repositório de codificação dos componentes v2 do Prensa Design System.
 ## Instalação
 ```bash
   # Versão latest 
-  npm install @xprog/prensa@latest
+  npm install @atexbrasil/prensa@latest
 
   # Versão qa
-  npm install @xprog/prensa@$NomeDaVersao
+  npm install @atexbrasil/prensa@$NomeDaVersao
 ```
